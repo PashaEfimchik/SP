@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  lab8.cpp
+C:\Users\Павел\Desktop\Labs\5_sem\SP\lab8\lab8\lab8.cpp(164,12): warning C4101: buff: неиспользованная локальная переменная
+  lab8.vcxproj -> C:\Users\Павел\Desktop\Labs\5_sem\SP\lab8\Debug\lab8.exe
